@@ -1,0 +1,55 @@
+table{
+    margin-top: 80px;
+    margin-left: 450px;
+    width: 500px;
+}
+#crear{
+    margin-right: 50px;
+    font-size: 30px;
+}
+
+#logo{
+    width: 130px;
+    height: 130px;
+    margin-left: 130px;
+}
+
+
+#robot{
+    border: solid black 1px;
+    width: 300px;
+    height: 30px;
+    padding-top: 15px;
+}
+#ingresar{
+    width: 300px;
+    height: 40px;
+    margin-left: 50px;
+}
+#select{
+    width: 300px;
+    height: 40px;
+    margin-left: 50px;
+}
+#robot{
+    width: 300px;
+    height: 40px;
+    margin-left: 50px;
+}
+#caja{
+    margin-left: 30px;
+}
+
+#submit{
+    list-style: none;
+    width: 300px;
+    height: 40px;
+    background-color: rgb(66, 133, 221);
+    margin-left: 50px;
+}
+#p{
+    margin-top: 20px;
+    background-color: coral;
+    margin-left: 50px;
+    border-radius: 5px;
+}

@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(240, 207, 157);
+}
+table{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+table tr td{
+    padding: 10px;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+section{
+    background-color: chocolate;
+    width: 500px;
+    height: 30px;
+    float: right;
+}
+input{
+    background-color: rgb(240, 200, 186);
+    border-radius: 5px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+}
